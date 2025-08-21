@@ -1,15 +1,9 @@
 # Hello, I'm MILES
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+If you are looking for the number one Cybersecurity and Digital Forensics expert in Africa, I am the person you go to. I do not just execute tasks like an average investigator. I showcase results.
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey and  passion for cybersecurity, as led me to become intrested in the field of digital forensics and incident response.
-
+My objective is to find criminals and curb cybercrime for good, while also teaching and guiding people into cybersecurity by making it simple and accessible.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -23,13 +17,13 @@ My journey and  passion for cybersecurity, as led me to become intrested in the 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+
+### Digital Forensics
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+<img src="https://img.shields.io/badge/-Autopsy%20Forensics-1E90FF?&style=for-the-badge&logo=apache&logoColor=white" />
+ <img src="https://img.shields.io/badge/-FTK%20Manager-2F4F4F?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -46,15 +40,11 @@ My journey and  passion for cybersecurity, as led me to become intrested in the 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Digital Forensics with Autopsy
+- 
