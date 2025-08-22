@@ -5,7 +5,7 @@ If you are looking for the number one Cybersecurity and Digital Forensics expert
 ## Objective
 My objective is to find criminals and curb cybercrime for good, while also teaching and guiding people into cybersecurity by making it simple and accessible.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -41,5 +41,5 @@ My objective is to find criminals and curb cybercrime for good, while also teach
 </div>
 
 ## Projects
-- Digital Forensics with Autopsy
-- 
+- Digital Forensics investigation with Autopsy
+  
