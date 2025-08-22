@@ -9,12 +9,7 @@ My objective is to find criminals and curb cybercrime for good, while also teach
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Autopsy Implementation for usb investigation        | <a href="https://github.com/milescyx/DIGITAL-FORENSICS-INVESTIGATION-WITH-AUTOPSY/blob/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Autopsy Implementation for usb investigation        | <a href="https://github.com/milescyx/DIGITAL-FORENSICS-INVESTIGATION-WITH-AUTOPSY/blob/main/README.md">Autopsy Investigation Project</a>|
 
 ## Tools
 
