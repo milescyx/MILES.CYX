@@ -1,45 +1,138 @@
 # Hello, I'm MILES
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-If you are looking for the number one Cybersecurity and Digital Forensics expert in Africa, I am the person you go to. I do not just execute tasks like an average investigator. I showcase results.
-## Objective
-My objective is to find criminals and curb cybercrime for good, while also teaching and guiding people into cybersecurity by making it simple and accessible.
-## Skills
+<a href="[LINKEDIN_URL]">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="[GITHUB_URL]">
+<img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Autopsy Implementation for usb investigation        | <a href="https://github.com/milescyx/DIGITAL-FORENSICS-INVESTIGATION-WITH-AUTOPSY/blob/main/README.md">Autopsy Investigation Project</a>|
+---
 
-## Tools
+## SOC Analyst | Incident Responder | Detection Engineer | Threat Hunter
 
+I specialize in Security Operations (SOC), Incident Response, Detection Engineering, Threat Hunting, and Endpoint Detection & Response (EDR).
 
-### Digital Forensics
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Autopsy%20Forensics-1E90FF?&style=for-the-badge&logo=apache&logoColor=white" />
- <img src="https://img.shields.io/badge/-FTK%20Manager-2F4F4F?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+My focus is on investigating security incidents, analyzing endpoint telemetry, building detection logic, mapping adversary behavior using MITRE ATT&CK, and responding to threats in real time through automated and manual techniques.
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## 🎯 Objective
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
+To work as a SOC Analyst or Incident Responder in a high-performing security team, contributing to:
+- Threat detection and monitoring
+- Incident investigation and response
+- Detection engineering and SIEM rule development
+- Endpoint security analysis and threat hunting
 
-## Projects
-- Digital Forensics investigation with Autopsy
-  
+---
+
+## 🧠 Skills
+
+- Security Operations Center (SOC) Monitoring
+- Incident Response & Investigation
+- Detection Engineering
+- Threat Hunting
+- Endpoint Detection & Response (EDR)
+- Log Analysis & Correlation
+- Windows Security Investigation
+- Malware Behavior Analysis
+- MITRE ATT&CK Mapping
+- Security Automation & Response
+
+---
+
+## 🛠️ Tools
+
+### Endpoint Security & EDR
+- Microsoft Defender for Endpoint
+- Velociraptor
+- LimaCharlie
+
+### SIEM & Monitoring
+- Microsoft Sentinel
+- Splunk
+- Elastic Stack
+
+### Analysis Tools
+- Wireshark
+- Sysmon
+- Autopsy
+
+---
+
+## 🏆 Certifications
+
+- CompTIA Security+
+- Cisco CCNA
+- [ADD YOUR CERTIFICATION HERE]
+
+---
+
+# 🚨 Featured Projects
+
+## 🔴 EDR Detection Engineering Lab (C2, LSASS, Automated Response)
+https://github.com/milescyx/edr-c2-detection-lab
+
+Description:
+Simulated real-world attack chain using Sliver C2 and Windows endpoint to demonstrate:
+- Command and Control (C2) access
+- LSASS credential dumping detection
+- Endpoint telemetry analysis in LimaCharlie
+- MITRE ATT&CK mapping
+- Automated process termination response
+
+---
+
+## 🔵 SOC Investigation & Alert Triage Lab
+https://[YOUR_PROJECT_LINK_HERE]
+
+Description:
+SOC-style investigation focused on:
+- Alert triage and prioritization
+- Log analysis and correlation
+- Incident timeline reconstruction
+- Root cause identification
+
+---
+
+## 🟣 Threat Hunting Lab
+https://[YOUR_PROJECT_LINK_HERE]
+
+Description:
+Proactive threat hunting exercises focusing on:
+- Suspicious process behavior
+- Endpoint anomaly detection
+- Persistence and lateral movement analysis
+- Behavioral detection techniques
+
+---
+
+## 🟡 Additional Projects
+https://[YOUR_PROJECT_LINK_HERE]
+
+(Add more SOC / IR / Detection Engineering labs here later)
+
+---
+
+# 📊 Areas of Expertise
+
+- Security Operations (SOC)
+- Incident Response
+- Detection Engineering
+- Threat Hunting
+- Endpoint Security Analysis
+- Malware Behavior Investigation
+- Log & Event Correlation
+- MITRE ATT&CK Framework
+- Security Automation
+- Cyber Threat Analysis
+
+---
+
+# 📬 Contact
+
+- LinkedIn: [LINKEDIN_URL]
+- GitHub: [GITHUB_URL]
+- Email: [YOUR_EMAIL]
