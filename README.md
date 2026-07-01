@@ -27,21 +27,24 @@ To work as a SOC Analyst or Incident Responder in a high-performing security tea
 - Endpoint security analysis and threat hunting
 
 ---
+## 🧠 Skills & Projects
 
-## 🧠 Skills
-
-- Security Operations Center (SOC) Monitoring
-- Incident Response & Investigation
-- Detection Engineering
-- Threat Hunting
-- Endpoint Detection & Response (EDR)
-- Log Analysis & Correlation
-- Windows Security Investigation
-- Malware Behavior Analysis
-- MITRE ATT&CK Mapping
-- Security Automation & Response
+| Skill | Associated Project |
+|------|--------------------|
+| Endpoint Detection & Response (EDR) | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
+| Incident Response & Investigation | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
+| Detection Engineering (LSASS / Credential Dumping) | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
+| Threat Hunting | https://[PROJECT_LINK_THREAT_HUNTING_LAB] |
+| MITRE ATT&CK Mapping | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
+| Security Monitoring & Alert Triage | https://[PROJECT_LINK_SOC_LAB] |
+| Log Analysis & Correlation | https://[PROJECT_LINK_SOC_LAB] |
+| Windows Endpoint Investigation | https://[PROJECT_LINK_SOC_LAB] |
+| Malware Behavior Analysis | https://[PROJECT_LINK_MALWARE_LAB] |
+| Automated Response Engineering | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
+| USB Forensics Investigation | https://[PROJECT_LINK_AUTOPSY_LAB] |
 
 ---
+
 
 ## 🛠️ Tools
 
