@@ -31,15 +31,15 @@ To work as a SOC Analyst or Incident Responder in a high-performing security tea
 
 | Skill | Associated Project |
 |------|--------------------|
-| Endpoint Detection & Response (EDR) | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
+| Endpoint Detection & Response (EDR) | https://github.com/milescyx/edr-c2-detection-lab |
 | Incident Response & Investigation | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
 | Threat Hunting | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
-| MITRE ATT&CK Mapping |  https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie  |
+| MITRE ATT&CK Mapping |  https://github.com/milescyx/edr-c2-detection-lab  |
 | Security Monitoring & Alert Triage | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
-| Log Analysis & Correlation | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
+| Log Analysis & Correlation | https://github.com/milescyx/edr-c2-detection-lab |
 | Windows Endpoint Investigation | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
 | Malware Behavior Analysis | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
-| Automated Response Engineering | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie  |
+| Automated Response Engineering | https://github.com/milescyx/edr-c2-detection-lab  |
 | USB Forensics Investigation | https://[PROJECT_LINK_AUTOPSY_LAB] |
 
 ---
