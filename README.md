@@ -117,5 +117,5 @@ Proactive threat hunting exercises focusing on:
 # 📬 Contact
 
 - LinkedIn: [LINKEDIN_URL]
-- GitHub: [GITHUB_URL]
-- Email: [YOUR_EMAIL]
+- GitHub: https://github.com/milescyx
+- Email: alabaselim23@gmail
