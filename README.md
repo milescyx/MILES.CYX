@@ -49,7 +49,7 @@ To work as a SOC Analyst or Incident Responder in a high-performing security tea
 
 ### Endpoint Security & EDR
 - Microsoft Defender for Endpoint
-- Velociraptor
+- Kali Linux
 - LimaCharlie
 
 ### SIEM & Monitoring
@@ -68,7 +68,6 @@ To work as a SOC Analyst or Incident Responder in a high-performing security tea
 
 - CompTIA Security+
 - Cisco CCNA
-- [ADD YOUR CERTIFICATION HERE]
 
 ---
 
@@ -87,34 +86,16 @@ Simulated real-world attack chain using Sliver C2 and Windows endpoint to demons
 
 ---
 
-## 🔵 SOC Investigation & Alert Triage Lab
-https://[YOUR_PROJECT_LINK_HERE]
-
-Description:
-SOC-style investigation focused on:
-- Alert triage and prioritization
-- Log analysis and correlation
-- Incident timeline reconstruction
-- Root cause identification
-
----
 
 ## 🟣 Threat Hunting Lab
-https://[YOUR_PROJECT_LINK_HERE]
+https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie 
 
 Description:
 Proactive threat hunting exercises focusing on:
-- Suspicious process behavior
-- Endpoint anomaly detection
-- Persistence and lateral movement analysis
-- Behavioral detection techniques
-
----
-
-## 🟡 Additional Projects
-https://[YOUR_PROJECT_LINK_HERE]
-
-(Add more SOC / IR / Detection Engineering labs here later)
+- Deployment and monitoring of Windows endpoints using EDR telemetry
+- Malware detection using custom YARA rules
+- Suspicious process and file behavior analysis
+- Alert investigation and threat validation
 
 ---
 
