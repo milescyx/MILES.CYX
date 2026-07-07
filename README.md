@@ -31,7 +31,7 @@ To work as a SOC Analyst or Incident Responder in a high-performing security tea
 
 | Skill | Associated Project |
 |------|--------------------|
-| Endpoint Detection & Response (EDR) | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
+| Endpoint Detection & Response (EDR) | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
 | Incident Response & Investigation | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
 | Detection Engineering (LSASS / Credential Dumping) | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
 | Threat Hunting | https://[PROJECT_LINK_THREAT_HUNTING_LAB] |
