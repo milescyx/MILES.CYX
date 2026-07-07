@@ -32,15 +32,14 @@ To work as a SOC Analyst or Incident Responder in a high-performing security tea
 | Skill | Associated Project |
 |------|--------------------|
 | Endpoint Detection & Response (EDR) | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
-| Incident Response & Investigation | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
-| Detection Engineering (LSASS / Credential Dumping) | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
-| Threat Hunting | https://[PROJECT_LINK_THREAT_HUNTING_LAB] |
-| MITRE ATT&CK Mapping | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
-| Security Monitoring & Alert Triage | https://[PROJECT_LINK_SOC_LAB] |
-| Log Analysis & Correlation | https://[PROJECT_LINK_SOC_LAB] |
-| Windows Endpoint Investigation | https://[PROJECT_LINK_SOC_LAB] |
-| Malware Behavior Analysis | https://[PROJECT_LINK_MALWARE_LAB] |
-| Automated Response Engineering | https://[PROJECT_LINK_LIMA_CHARLIE_LAB] |
+| Incident Response & Investigation | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
+| Threat Hunting | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
+| MITRE ATT&CK Mapping |  https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie  |
+| Security Monitoring & Alert Triage | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
+| Log Analysis & Correlation | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
+| Windows Endpoint Investigation | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
+| Malware Behavior Analysis | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
+| Automated Response Engineering | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie  |
 | USB Forensics Investigation | https://[PROJECT_LINK_AUTOPSY_LAB] |
 
 ---
