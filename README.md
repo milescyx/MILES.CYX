@@ -125,5 +125,5 @@ If you're building a lab, documenting a cybersecurity project, or creating a por
 # 📬 Connect With Me
 
 * **GitHub:** https://github.com/milescyx
-* **LinkedIn:** *Coming Soon*
+* **LinkedIn:** www.linkedin.com/in/selim-a-439a49319
 * **Email:** [alabaselim23@gmail.com](mailto:alabaselim23@gmail.com)
