@@ -1,113 +1,129 @@
-# Hello, I'm Selim Alaba
-
-
----
+# Hi, I'm Selim Alaba 👋
 
 ## SOC Analyst | Incident Responder | Detection Engineer | Threat Hunter
 
-I've been into cybersecurity since I was 15, and for the past three years I've been dedicated to learning, building, and applying security concepts through hands-on projects. I enjoy turning theory into practical experience by creating labs, detection engineering projects, incident response simulations, and cloud security experiments. Cybersecurity started as a hobby, but it quickly became a mission. I believe technology should make the digital world safer, and I want to contribute by helping organizations protect their systems, detect threats, and reduce cybercrime.
+I've been passionate about cybersecurity since I was 15, and over the past three years I've dedicated myself to building practical, hands-on experience through security labs and real-world simulations.
 
-I'm always building new projects to deepen my technical skills, document what I learn, and share knowledge with others in the cybersecurity community.
----
-
-## 🎯 Objective
-
-To work as a SOC Analyst or Incident Responder in a high-performing security team, contributing to:
-- Threat detection and monitoring
-- Incident investigation and response
-- Detection engineering and SIEM rule development
-- Endpoint security analysis and threat hunting
-
----
-## 🧠 Skills & Projects
-
-| Skill | Associated Project |
-|------|--------------------|
-| Endpoint Detection & Response (EDR) | https://github.com/milescyx/edr-c2-detection-lab |
-| Incident Response & Investigation | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
-| Threat Hunting | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
-| MITRE ATT&CK Mapping |  https://github.com/milescyx/edr-c2-detection-lab  |
-| Security Monitoring & Alert Triage | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
-| Log Analysis & Correlation | https://github.com/milescyx/edr-c2-detection-lab |
-| Windows Endpoint Investigation | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
-| Malware Behavior Analysis | https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie |
-| Automated Response Engineering | https://github.com/milescyx/edr-c2-detection-lab  |
-| USB Forensics Investigation | https://[PROJECT_LINK_AUTOPSY_LAB] |
+What started as a hobby has become a mission. I enjoy building projects that strengthen my technical skills while helping organizations detect threats, investigate incidents, and protect their digital assets. I believe sharing knowledge is just as important as gaining it, which is why every project I build is carefully documented so others can learn from it.
 
 ---
 
+## 🎯 Career Objective
 
-## 🛠️ Tools
+I'm seeking opportunities to contribute to a Security Operations Center (SOC) or Blue Team, where I can help:
 
-### Endpoint Security & EDR
-- Microsoft Defender for Endpoint
-- Kali Linux
-- LimaCharlie
+* Monitor and detect security threats
+* Investigate security incidents
+* Perform threat hunting activities
+* Engineer detections and automate responses
+* Improve an organization's security posture
 
-### SIEM & Monitoring
-- Microsoft Sentinel
-- Splunk
-- Elastic Stack
-
-### Analysis Tools
-- Wireshark
-- Sysmon
-- Autopsy
+I'm always eager to learn new technologies, work with experienced professionals, and contribute to meaningful security projects.
 
 ---
 
-## 🏆 Certifications
+# 🧠 Technical Skills
 
-- CompTIA Security+
-- Cisco CCNA
+| Skill                               | Project                                                                                                                       |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Endpoint Detection & Response (EDR) | [EDR Detection Engineering Lab](https://github.com/milescyx/edr-c2-detection-lab)                                             |
+| Detection Engineering               | [EDR Detection Engineering Lab](https://github.com/milescyx/edr-c2-detection-lab)                                             |
+| Incident Response                   | [Threat Hunting Lab](https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie) |
+| Threat Hunting                      | [Threat Hunting Lab](https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie) |
+| Malware Analysis                    | [Threat Hunting Lab](https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie) |
+| Windows Endpoint Investigation      | [Threat Hunting Lab](https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie) |
+| Log Analysis & Correlation          | [EDR Detection Engineering Lab](https://github.com/milescyx/edr-c2-detection-lab)                                             |
+| MITRE ATT&CK Mapping                | [EDR Detection Engineering Lab](https://github.com/milescyx/edr-c2-detection-lab)                                             |
+| Automated Response Engineering      | [EDR Detection Engineering Lab](https://github.com/milescyx/edr-c2-detection-lab)                                             |
+| USB Forensics *(Coming Soon)*       | Autopsy Investigation Lab                                                                                                     |
 
 ---
 
-# 🚨 Featured Projects
+# 🛠️ Tools & Technologies
 
-## 🔴 EDR Detection Engineering Lab (C2, LSASS, Automated Response)
+### Detection & Response
+
+* LimaCharlie
+* Sysmon
+* YARA
+
+### Security Monitoring
+
+* Splunk
+* Elastic Stack
+
+### Network & Endpoint Analysis
+
+* Wireshark
+* Kali Linux
+* Windows
+
+### Digital Forensics
+
+* Autopsy
+
+---
+
+# 🏆 Certifications
+
+* Cisco CCNA
+* CompTIA Security+
+
+---
+
+# 🚀 Featured Projects
+
+## 🔴 EDR Detection Engineering Lab
+
+**Repository:**
 https://github.com/milescyx/edr-c2-detection-lab
 
-Description:
-Simulated real-world attack chain using Sliver C2 and Windows endpoint to demonstrate:
-- Command and Control (C2) access
-- LSASS credential dumping detection
-- Endpoint telemetry analysis in LimaCharlie
-- MITRE ATT&CK mapping
-- Automated process termination response
+### Highlights
+
+* Simulated Sliver C2 attack
+* Detected malicious endpoint behavior
+* Investigated LSASS credential dumping
+* Created custom LimaCharlie detection rules
+* Automated response actions
+* Mapped detections to the MITRE ATT&CK Framework
 
 ---
-
 
 ## 🟣 Threat Hunting Lab
-https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie 
 
-Description:
-Proactive threat hunting exercises focusing on:
-- Deployment and monitoring of Windows endpoints using EDR telemetry
-- Malware detection using custom YARA rules
-- Suspicious process and file behavior analysis
-- Alert investigation and threat validation
+**Repository:**
+https://github.com/milescyx/Threat-Hunting-Lab-Detecting-Sliver-Malware-Using-YARA-Rules-in-LimaCharlie
 
----
+### Highlights
 
-# 📊 Areas of Expertise
-
-- Security Operations (SOC)
-- Incident Response
-- Detection Engineering
-- Threat Hunting
-- Endpoint Security Analysis
-- Malware Behavior Investigation
-- Log & Event Correlation
-- MITRE ATT&CK Framework
-- Security Automation
-- Cyber Threat Analysis
+* Windows endpoint monitoring with LimaCharlie
+* Custom YARA rule development
+* Malware detection and validation
+* Threat hunting using endpoint telemetry
+* Behavioral analysis of suspicious processes
 
 ---
 
-# 📬 Contact
+# 📚 Currently Learning
 
-- LinkedIn: [LINKEDIN_URL]
-- GitHub: https://github.com/milescyx
-- Email: alabaselim23@gmail.com
+* Advanced Detection Engineering
+* Security Automation
+* Cloud Security
+* Advanced Threat Hunting
+* Digital Forensics
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on cybersecurity projects, sharing ideas, and learning from others in the community.
+
+If you're building a lab, documenting a cybersecurity project, or creating a portfolio, feel free to reach out. I'd be happy to help you improve your documentation or share what I've learned along the way.
+
+---
+
+# 📬 Connect With Me
+
+* **GitHub:** https://github.com/milescyx
+* **LinkedIn:** *Coming Soon*
+* **Email:** [alabaselim23@gmail.com](mailto:alabaselim23@gmail.com)
