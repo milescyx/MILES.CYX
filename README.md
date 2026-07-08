@@ -18,7 +18,7 @@ I'm seeking opportunities to contribute to a Security Operations Center (SOC) or
 * Engineer detections and automate responses
 * Improve an organization's security posture
 
-I'm always eager to learn new technologies, work with experienced professionals, and contribute to meaningful security projects.
+I'm always excited to learn new technologies, work with experienced professionals, and contribute to meaningful security projects.
 
 ---
 
