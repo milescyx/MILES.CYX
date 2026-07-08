@@ -1,12 +1,5 @@
 # Hello, I'm MILES
 
-<a href="www.linkedin.com/in/selim-a-439a49319">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="[https://github.com/milescyx">
-<img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 ---
 
