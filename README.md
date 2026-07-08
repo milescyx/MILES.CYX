@@ -5,10 +5,9 @@
 
 ## SOC Analyst | Incident Responder | Detection Engineer | Threat Hunter
 
-I specialize in Security Operations (SOC), Incident Response, Detection Engineering, Threat Hunting, and Endpoint Detection & Response (EDR).
+I've been into cybersecurity since I was 15, and for the past three years I've been dedicated to learning, building, and applying security concepts through hands-on projects. I enjoy turning theory into practical experience by creating labs, detection engineering projects, incident response simulations, and cloud security experiments. Cybersecurity started as a hobby, but it quickly became a mission. I believe technology should make the digital world safer, and I want to contribute by helping organizations protect their systems, detect threats, and reduce cybercrime.
 
-My focus is on investigating security incidents, analyzing endpoint telemetry, building detection logic, mapping adversary behavior using MITRE ATT&CK, and responding to threats in real time through automated and manual techniques.
-
+I'm always building new projects to deepen my technical skills, document what I learn, and share knowledge with others in the cybersecurity community.
 ---
 
 ## 🎯 Objective
